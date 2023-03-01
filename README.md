@@ -14,10 +14,10 @@
 
 
     POST запрос
-![img.png](img.png)
+![img.png](img.png)  
 
       Ответ
-![img_1.png](img_1.png)
+![img_1.png](img_1.png)  
 
 
     Запрос с уже существующим пользователем
